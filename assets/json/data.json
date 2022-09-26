@@ -1,0 +1,22 @@
+[
+  {
+    "logo": "assets/images/wiki.png",
+    "name" : "Wikipedia",
+    "website": "https://www.wikipedia.org/"
+  },
+  {
+    "logo": "assets/images/w3s.png",
+    "name": "W3Schools",
+    "website": "https://www.w3schools.com/"
+  },
+  {
+    "logo": "assets/images/java.png",
+    "name": "java T point",
+    "website": "https://www.javatpoint.com//"
+  },
+  {
+    "logo": "assets/images/tutorials.png",
+    "name": "Tutorials point",
+    "website": "https://www.tutorialspoint.com/index.htm"
+  }
+]
